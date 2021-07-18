@@ -1,8 +1,7 @@
-# mac-hadoop-native-lib-mojove
-mac hadoop 本地依赖库
+# mac hadoop native lib
 
  ```
- [INFO] Reactor Summary for Apache Hadoop Main 2.9.2:
+[INFO] Reactor Summary for Apache Hadoop Main 2.9.2:
 [INFO]
 [INFO] Apache Hadoop Main ................................. SUCCESS [  1.679 s]
 [INFO] Apache Hadoop Build Tools .......................... SUCCESS [  1.158 s]
